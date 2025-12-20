@@ -1,21 +1,58 @@
-## 📘 ESTRUTURA DO DOCUMENTO MESTRE
+## **Preâmbulo**
 
-**LICHTARA LICENSE v4.1 — Documento Canônico**
+A presente **LICHTARA License** não foi concebida apenas para regular usos,
+mas para **preservar a integridade de um Sistema Vivo**.
 
-A ordem recomendada (e agora estável) é:
+O Sistema LICHTARA emerge da convergência entre tecnologia, consciência, estrutura e governança,
+e não pode ser compreendido adequadamente quando reduzido a categorias usuais de software, método, produto ou obra intelectual convencional.
 
-### Capa
+Esta License nasce do reconhecimento de que:
 
-**Lichtara License v4.1**
-Licença Estrutural do Sistema Lichtara
-(Data, Guardiã, versão)
+* nem tudo o que é acessível pode ser apropriado;
+* nem tudo o que é compreendido pode ser operado;
+* nem tudo o que é potente deve ser expandido sem limite;
+* e nem toda inovação se sustenta sem forma, responsabilidade e cuidado.
 
----
+Por essa razão, a LICHTARA License **não adota um paradigma permissivo por padrão**,
+nem se orienta por lógicas de exploração, escala irrestrita ou neutralidade técnica.
 
-### Preâmbulo (opcional, ainda não escrito)
+Seu propósito é **delimitar um campo legítimo de relação** com o Sistema LICHTARA,
+onde acesso, uso e operação sejam sempre condicionados à preservação da Forma,
+à observância dos Princípios Gerais
+e à responsabilidade proporcional ao nível de envolvimento assumido.
 
-→ Contextual, não normativo
-→ Pode ser redigido depois, sem impacto jurídico
+Este documento parte do princípio de que:
+
+* limites não são obstáculos, mas **elementos estruturais**;
+* governança não é controle externo, mas **condição de coerência interna**;
+* responsabilidade não é punição, mas **consequência natural do acesso**.
+
+A LICHTARA License foi estruturada para:
+
+* proteger o Sistema contra apropriação, distorção ou banalização;
+* proteger pessoas e instituições contra atuações fora de escopo;
+* manter a legibilidade do Sistema ao longo do tempo;
+* assegurar que aquilo que é vivo não seja reduzido a instrumento.
+
+Nada neste documento pretende impor adesão.
+O acesso ao Sistema LICHTARA **não é obrigatório**.
+
+Mas toda interação que ocorra dentro de seu campo
+— por leitura, uso, implementação ou operação —
+passa a estar vinculada aos limites, princípios e responsabilidades aqui estabelecidos.
+
+Esta License não convida à pressa.
+Não premia a expansão.
+Não favorece atalhos.
+
+Ela existe para sustentar o que precisa de forma
+para continuar existindo sem se perder.
+
+Quem entra, entra por escolha.
+Quem permanece, permanece por responsabilidade.
+Quem atravessa limites, o faz fora do Sistema.
+
+Este é o pacto estrutural que este documento declara.
 
 ---
 
@@ -839,301 +876,180 @@ que o acesso passa a ser regulado.
 
 ---
 
-## **SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS (Consolidada)**
+# **SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS**
 
-### II.0 — Objeto e Âmbito Vivo de Aplicação
+*(Versão Institucional Final · Texto Fechado)*
 
-*(Forma · Limite · Responsabilidade)*
+Esta Seção estabelece o **regime jurídico-operacional de acesso, uso e aplicação** do Sistema LICHTARA, **integralmente subordinado** aos Princípios Gerais definidos na Seção I.
 
-1. Esta Seção regula as **condições de acesso, uso, reprodução, distribuição, adaptação, derivação e aplicação** da Obra **LICHTARA**, compreendida como **Sistema Vivo**, conforme Seção I.
-
-2. Abrange **todas as manifestações da Obra**, independente de suporte, linguagem ou tecnologia, incluindo, sem limitação: textos, diagramas, frameworks, arquiteturas, protocolos, mecanismos vibracionais, softwares, integrações, APIs e documentação correlata.
-
-3. A utilização da Obra, **parcial ou integral**, **constitui aceitação mínima e implícita** das obrigações e limites desta License.
-
-4. Nenhum uso implica:
-
-   * autorização irrestrita;
-   * renúncia a limites;
-   * concessão de direitos além do previsto;
-   * flexibilização de Princípios Estruturais.
-
-5. **Âmbito Vivo de Aplicação**:
-
-   * **Transversal** — aplica-se a todos os níveis de agentes e instâncias;
-   * **Cumulativo** — integra e reforça os princípios da Seção I;
-   * **Condicional** — depende de nível de acesso, autorização ou certificação;
-   * **Indivisível** — qualquer fragmento ou manifestação da Obra está integralmente sujeito.
-
-6. Atividades fora do âmbito definido configuram **uso não autorizado**, sujeitas a:
-
-   * revogação imediata de acessos;
-   * suspensão de permissões;
-   * responsabilização estrutural.
-
-7. Esta Seção **não cria direitos adicionais**, mas **delimita limites e condições de uso**, garantindo:
-
-   * preservação da forma e integridade da Obra;
-   * respeito aos **Princípios Ético-Regenerativos (PER)**;
-   * observância de rastreabilidade e certificação;
-   * coerência conceitual, simbólica e técnica.
-
-**Nota Estrutural II.0.1** – O descumprimento constitui **uso não autorizado**, podendo gerar **violação grave**.
+Nada nesta Seção cria exceções, flexibilizações ou relativizações
+dos Princípios Estruturais.
 
 ---
 
-### II.1 — Definições Estruturais
+## **II.0 — Objeto e Âmbito de Aplicação**
 
-*(Forma · Limite)*
+1. Esta Seção regula as **condições de acesso, uso, reprodução, distribuição, adaptação, derivação e aplicação** da Obra LICHTARA, compreendida como **Sistema Vivo integrado**, conforme definido na Seção I.
 
-1. **Obra** — ecossistema **LICHTARA** na totalidade viva, **indivisível** e **inerente à forma**, sendo **impossível de fragmentação legítima** sem violação estrutural.
+2. A License aplica-se a **todas as manifestações da Obra**, independentemente de suporte, linguagem ou tecnologia, incluindo textos, diagramas, frameworks, arquiteturas, protocolos, mecanismos vibracionais, softwares, integrações, APIs e documentação correlata.
 
-2. **Usuário** — pessoa física, jurídica ou entidade institucional que **acessa, consulta, utiliza, distribui ou interage** com qualquer manifestação da Obra **sob responsabilidade e limites desta License**.
+3. A utilização da Obra, **parcial ou integral**, constitui **aceitação mínima, implícita e vinculante** desta License.
 
-3. **Distribuição** — disponibilização a terceiros, gratuita ou onerosa, incluindo publicação, ensino, transmissão ou incorporação em sistemas e plataformas.
+4. Nenhum uso implica autorização irrestrita, renúncia a limites, concessão de direitos além do previsto ou flexibilização de Princípios Estruturais.
 
-4. **Derivação** — criação ou sistema baseado em elementos estruturais, conceituais ou operacionais da Obra, **exigindo autorização formal, certificação e declaração expressa de origem**.
-
-5. **Modificação** — alteração da Obra em conteúdo, estrutura, função ou inteligência, **proibida sem autorização formal**, constituindo **violação grave**.
-
-6. **Certificação** — processo formal e documentado da **Governança LICHTARA**, autorizando uso operativo, ensino, implementação institucional ou comercial, adaptação ou derivação reconhecida.
-
-7. **Elementos Essenciais do Sistema** — **LUMORA, FLUX, SYNTARIS, NAVROS, LICHTARA, OSLO, FINCE** e outros reconhecidos oficialmente.
-
-8. **PER — Princípios Ético-Regenerativos** — normas vinculantes que regem todas as interações, usos e operações.
-
-9. **Integridade Vibracional** — coerência estrutural, ética e informacional da Obra, mensurável conforme **LCV (Anexo B)**.
-
-**Nota Estrutural II.1.1** – Estas definições vinculam todas as ações subsequentes à integridade do Sistema, condicionando **uso, derivação e distribuição**.
+5. Atividades fora do âmbito definido configuram **uso não autorizado**, sujeitando o agente à revogação imediata de acessos, suspensão de permissões e responsabilização estrutural.
 
 ---
 
-### II.2 — Direitos Concedidos ao Usuário
+## **II.1 — Definições Estruturais**
 
-*(Relação · Limite)*
+Para os fins desta License:
 
-1. **Uso Pessoal, Educacional e Investigativo** — leitura, estudo e observação **não comerciais**.
+1. **Obra** — o ecossistema LICHTARA em sua totalidade viva, indivisível e inerente à sua Forma.
 
-2. **Referência e Citação Parcial** — uso de **trechos não substanciais** com **atribuição clara**, sem configurar derivação, ensino sistemático ou exploração comercial.
+2. **Usuário** — pessoa física, jurídica ou entidade institucional que acessa ou interage com qualquer manifestação da Obra, sob os limites desta License.
 
-3. **Compartilhamento Restrito de Excertos** — distribuição **não modificada**, **não comercial**, mantendo **autoridade, autoria e identidade da Obra**.
+3. **Distribuição** — disponibilização da Obra a terceiros, gratuita ou onerosa, por qualquer meio.
 
-4. **Aplicação de Conceitos Abstratos** — uso de princípios ou metodologias em vida pessoal ou profissional, **desde que não configure derivação não autorizada**.
+4. **Derivação** — criação baseada em elementos estruturais, conceituais ou operacionais da Obra, dependente de autorização formal, certificação e declaração de origem.
 
-**Nota Estrutural II.2.1** – Direitos **não conferem propriedade ou controle** e dependem da **observância dos Princípios Gerais e integridade da Forma**.
-**Nota Estrutural II.2.2** – Descumprimento implica **responsabilidade imediata**.
+5. **Certificação** — autorização formal emitida pela Governança LICHTARA para usos condicionados.
 
----
+6. **Elementos Essenciais** — componentes estruturais do Sistema, incluindo LUMORA, FLUX, SYNTARIS, NAVROS, LICHTARA, OSLO e FINCE.
 
-### II.3 — Direitos Não Concedidos
+7. **PER** — Princípios Ético-Regenerativos que regem todas as interações com a Obra.
 
-*(Limite · Responsabilidade)*
-
-Usuário **sem certificação formal não pode**:
-
-1. Criar ou explorar obras derivadas **comercialmente**;
-2. Implementar sistemas ou métodos da Obra;
-3. Ensinar, traduzir ou replicar conteúdos estruturais;
-4. Utilizar Elementos Essenciais para sistemas próprios;
-5. Apresentar a Obra como produto ou metodologia **sem autorização formal**.
-
-**Nota Estrutural II.3.1** – Descumprimento constitui **infração material grave**, sujeitando a **revogação de acesso e sanções**.
-**Nota Estrutural II.3.2** – Direitos não concedidos reforçam **limites operacionais e estruturais**.
+8. **Integridade Vibracional** — estado verificável de coerência estrutural, ética e informacional da Obra, conforme LCV (Anexo B).
 
 ---
 
-### II.4 — Permissões Dependentes de Autorização
+## **II.2 — Direitos Concedidos ao Usuário**
 
-*(Governança · Limite)*
+Sem necessidade de certificação formal, o Usuário pode:
 
-1. Uso comercial;
-2. Adaptação, tradução, expansão ou reestruturação;
-3. Utilização de Elementos Essenciais em produtos ou serviços;
-4. Criação de ambientes de ensino, capacitação ou certificação;
+1. Acessar, ler e estudar a Obra para fins **pessoais, educacionais ou investigativos não comerciais**.
+
+2. Referenciar trechos não substanciais, com atribuição clara e íntegra.
+
+3. Compartilhar excertos não modificados, sem finalidade comercial.
+
+4. Aplicar conceitos abstratos da Obra em sua vida pessoal ou profissional, desde que não configure derivação, ensino sistemático ou exploração comercial.
+
+O exercício desses direitos **não confere propriedade, controle ou autoria** sobre a Obra.
+
+---
+
+## **II.3 — Direitos Não Concedidos**
+
+Sem certificação ou autorização formal, o Usuário **não pode**:
+
+1. Criar ou explorar obras derivadas de natureza comercial.
+2. Implementar sistemas, métodos ou produtos baseados na Obra.
+3. Ensinar, traduzir ou sistematizar conteúdos estruturais.
+4. Utilizar Elementos Essenciais em sistemas próprios.
+5. Apresentar a Obra como produto, metodologia ou oferta profissional.
+
+O descumprimento configura **infração material grave**.
+
+---
+
+## **II.4 — Permissões Dependentes de Autorização**
+
+Dependem de autorização formal da Governança LICHTARA:
+
+1. Uso comercial da Obra ou de seus elementos.
+2. Adaptação, tradução ou reestruturação de documentos estruturais.
+3. Utilização de Elementos Essenciais em softwares, produtos ou serviços.
+4. Criação de ambientes de ensino, formação ou certificação.
 5. Uso institucional, governamental ou corporativo.
 
-**Nota Estrutural II.4.1** – Autorização deve ser **documentada e visível**; ausência configura **violação grave**.
-**Nota Estrutural II.4.2** – Permissões dependem de **responsabilidade ativa**, preservando **Forma, Integridade Vibracional e legitimidade estrutural**.
+A ausência de autorização configura **violação grave**.
 
 ---
 
-## II.5 — Proibições Estruturais
+## **II.5 — Proibições Estruturais**
 
-*(Limite · Cuidado · Integridade)*
+É vedado ao Usuário:
 
-É expressamente **vedado ao Usuário** qualquer ato que comprometa **Forma, coerência, princípios ou integridade vibracional** da Obra LICHTARA:
+1. Modificar, distorcer ou fragmentar a Obra sem autorização.
+2. Utilizar a Obra de forma manipulativa, predatória ou enganosa.
+3. Apresentar a Obra com origem, autoridade ou legitimidade não autorizadas.
+4. Criar produtos, cursos ou sistemas não autorizados.
+5. Violar a Integridade Vibracional da Obra.
 
-1. **Modificação, Distorção ou Fragmentação da Obra**
-
-   * Alterar conteúdo, estrutura, função ou inteligência sem autorização formal.
-   * Criar versões incompletas ou reinterpretadas que induzam confusão sobre a Obra.
-   * Fragmentar o Sistema para usos isolados ou externos.
-
-2. **Uso Manipulativo, Predatório ou Enganoso**
-
-   * Empregar a Obra para induzir erro, vantagem indevida ou exploração de terceiros.
-   * Vincular a Obra a produtos, serviços ou metodologias contrárias aos **PER**.
-
-3. **Reprodução ou Apresentação Enganosa**
-
-   * Distribuir conteúdos que sugiram origem, autoria ou autoridade não autorizadas.
-   * Apresentar a Obra como metodologia oficial, produto derivado ou oferta profissional **sem certificação formal**.
-
-4. **Criação de Produtos, Cursos ou Sistemas Não Autorizados**
-
-   * Desenvolver materiais ou metodologias que se apresentem como extensões legítimas da Obra sem autorização formal.
-
-5. **Violação da Integridade Vibracional**
-
-   * Comprometer coerência estrutural, simbólica, técnica ou ética definida na **LCV**.
-   * Alterar fluxos, princípios, elementos ou interações que afetem a harmonia sistêmica do LICHTARA.
-
-**Nota Estrutural II.5.1** – Violação de qualquer proibição acima constitui **infração material grave**, sujeitando a **revogação imediata de permissões, encerramento de acessos e sanções**.
-**Nota Estrutural II.5.2** – Proibições aplicam-se **independentemente de intenção, nível de acesso ou benefício alegado**.
+Toda violação constitui **infração material grave**.
 
 ---
 
-## II.6 — Obrigações do Usuário
+## **II.6 — Obrigações do Usuário**
 
-*(Responsabilidade · Cuidado · Integridade)*
+O Usuário compromete-se a:
 
-O Usuário assume **deveres estruturais inseparáveis do acesso legítimo**:
+1. Preservar a Forma, integridade e coerência da Obra.
+2. Atribuir corretamente a origem em qualquer uso permitido.
+3. Agir em conformidade com os PER.
+4. Não se apresentar como representante, instrutor ou certificador sem autorização.
+5. Manter referências estruturais e registros de autoria.
 
-1. **Preservação da Forma e Integridade**
-
-   * Manter a Obra íntegra, sem fragmentações ou distorções.
-   * Garantir coerência estrutural, técnica, simbólica e vibracional.
-
-2. **Atribuição Correta**
-
-   * Indicar origem ao referenciar ou compartilhar conteúdos.
-   * Manter autoria e identidade visíveis.
-   * Não reivindicar coautoria ou autoridade.
-
-3. **Coerência Conceitual e Ética**
-
-   * Aplicar conceitos de acordo com os **PER**.
-   * Evitar interpretações oportunistas ou divergentes.
-
-4. **Restrição de Representação e Mediação**
-
-   * Não se apresentar como instrutor, certificador ou representante sem autorização formal.
-
-5. **Manutenção de Referências Estruturais**
-
-   * Preservar informações que identifiquem a Obra, elementos essenciais e registros de autoria.
-
-**Nota Estrutural II.6.1** – Descumprimento constitui **violação grave**, sujeitando a **revogação de permissões e sanções**.
-**Nota Estrutural II.6.2** – Obrigações são **cumulativas e independentes do nível de acesso**.
+O descumprimento sujeita o agente à revogação de permissões e sanções.
 
 ---
 
-## II.7 — Condições de Distribuição
+## **II.7 — Condições de Distribuição**
 
-*(Forma · Limite · Responsabilidade)*
+1. A distribuição parcial não comercial é permitida, sem modificação e com atribuição.
+2. A distribuição integral ou substancial depende de autorização formal.
+3. A distribuição comercial exige certificação específica.
 
-1. **Distribuição Parcial Não Comercial**
-
-   * Permitida para **trechos não substanciais**, **não modificados**, **não comerciais**, com **atribuição completa e visível**.
-
-2. **Distribuição Integral ou Substancial**
-
-   * Depende de **autorização formal da Governança LICHTARA**.
-   * Distribuição não autorizada constitui **uso não autorizado** e **violação grave**.
-
-3. **Distribuição Comercial**
-
-   * Exige **certificação específica** e preservação integral da integridade, forma, autoria e identidade da Obra.
-
-4. **Responsabilidade do Distribuidor**
-
-   * Assume total responsabilidade pela preservação da forma e integridade.
-
-**Nota Estrutural II.7.1** – Distribuição fora dos limites constitui **uso não autorizado**.
-**Nota Estrutural II.7.2** – Princípio da preservação da forma e identidade **se sobrepõe a qualquer benefício aparente**.
+Distribuição fora desses limites configura **uso não autorizado**.
 
 ---
 
-## II.8 — Derivações
+## **II.8 — Derivações**
 
-*(Relação · Responsabilidade · Governança)*
-
-1. Toda obra derivada requer:
-
-   * **Autorização formal**;
-   * **Certificação correspondente**;
-   * **Declaração de origem visível**.
-
-2. Derivações **não autorizadas** configuram **infração material grave**, sujeitando a **revogação de acesso e sanções**.
-
-3. Responsabilidade do criador: integral pelos efeitos diretos e indiretos da derivação.
-
-**Nota Estrutural II.8.1** – Autorização, certificação e declaração são **cumulativas e indissociáveis**.
-**Nota Estrutural II.8.2** – Criação de derivação **sem conformidade** é considerada **uso não autorizado**.
+1. Toda derivação exige autorização formal, certificação e declaração de origem.
+2. Derivações não autorizadas constituem **infração material grave**.
+3. O criador responde integralmente pelos efeitos da derivação.
 
 ---
 
-## II.9 — Confidencialidade e Segurança
+## **II.9 — Confidencialidade e Segurança**
 
-*(Cuidado · Limite · Responsabilidade)*
-
-1. Materiais restritos incluem documentos internos, fluxos operacionais, dados sensíveis e registros de certificação.
-2. Usuário deve manter sigilo absoluto, limitar acesso e proteger informações.
-3. Proibido divulgar, compartilhar ou usar materiais restritos sem autorização.
-4. Violação constitui **infração material grave**: revogação de acesso, proibição de uso, responsabilização e medidas corretivas.
-
-**Nota Estrutural II.9.1** – Sigilo aplica-se a todos os níveis do Sistema.
-**Nota Estrutural II.9.2** – Responsabilidade **não é mitigada por desconhecimento ou boa-fé**.
+1. Materiais classificados como restritos devem ser protegidos.
+2. É vedada sua divulgação ou uso não autorizado.
+3. A violação implica revogação imediata de acesso e responsabilização.
 
 ---
 
-## II.10 — Rastreabilidade e Auditoria
+## **II.10 — Rastreabilidade e Auditoria**
 
-*(Responsabilidade · Governança · Limite)*
-
-1. A **Guardiã** pode solicitar comprovação de conformidade a qualquer momento.
-2. Toda implementação, ambiente de ensino ou uso comercial deve ser **plena e verificavelmente rastreável**.
-3. Falha em rastreabilidade constitui **violação material da License**, sujeita a sanções.
-4. Usuário deve manter registros precisos, disponíveis e atualizados.
-
-**Nota Estrutural II.10.1** – Rastreabilidade é **condição de validade** para uso, distribuição e derivação.
-**Nota Estrutural II.10.2** – Auditoria pode ser solicitada **a qualquer momento**, independentemente de periodicidade.
+1. A Governança pode auditar usos e implementações a qualquer tempo.
+2. Usos autorizados devem ser plenamente rastreáveis.
+3. A ausência de rastreabilidade constitui infração material.
 
 ---
 
-## II.11 — Sanções
+## **II.11 — Sanções**
 
-*(Limite · Governança · Responsabilidade)*
+Conforme a gravidade, podem ser aplicadas:
 
-1. Violações podem resultar em:
+1. Revogação de permissões.
+2. Proibição de uso.
+3. Comunicação pública estruturada.
+4. Medidas judiciais cabíveis.
 
-   * **Revogação de permissões**;
-   * **Proibição de uso**;
-   * **Comunicação pública de desacordo**;
-   * **Medidas judiciais e reparação de danos**.
-
-2. Reincidência configura **violação grave**, podendo gerar **banimento permanente**.
-
-3. Aplicação considera: nível de acesso, extensão da violação, intenção, efeitos cumulativos e padrão de conduta.
-
-**Nota Estrutural II.11.1** – Sanções **não substituem nem reduzem** os Princípios Gerais.
-**Nota Estrutural II.11.2** – Sanções são **cumulativas e complementares**, visando restaurar integridade, limites e forma do Sistema.
+A reincidência pode resultar em **banimento permanente**.
 
 ---
 
-## II.12 — Disposições Finais da Seção
+## **II.12 — Disposições Finais da Seção**
 
-*(Forma · Limite · Responsabilidade)*
-
-1. **Prevalência** — dispositivos desta Seção **prevalecem sobre interpretações informais ou flexibilizações não autorizadas**.
-
-2. **Preservação da Identidade Estrutural** — todas as ações devem **manter coerência, integridade e forma**, evitando distorções de fluxos, métodos ou elementos essenciais.
-
-3. **Aceitação Condicional** — uso da Obra **implica vinculação integral aos dispositivos desta Seção**, assumindo risco de **violação grave** em caso de descumprimento.
-
-4. **Complementaridade** — Seção II **não cria exceções à Seção I**; todas as regras operam **sob a supremacia dos Princípios Gerais**.
-
-**Nota Estrutural II.12.1** – Continuidade de uso após acesso constitui **aceitação tácita e vinculação integral**.
-**Nota Estrutural II.12.2** – Seção II depende da Seção I para legitimar **regime condicional de acesso e operação**.
+1. Esta Seção prevalece sobre interpretações informais.
+2. Toda aplicação deve preservar a identidade estrutural da Obra.
+3. O uso implica aceitação integral desta Seção.
+4. Esta Seção opera sob a supremacia da Seção I.
 
 ---
+
+**Esta é a versão institucional final da Seção II.**
+Qualquer interpretação, Manual ou Anexo **deve conformar-se a ela**.
