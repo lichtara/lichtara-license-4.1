@@ -1,4 +1,4 @@
-#### **Anexo E — Certificação, Níveis de Acesso e Regimes de Uso**
+#### **Anexo C — Certificação, Níveis de Acesso e Regimes de Uso**
 
 *(Sim, pular para o E é correto: ele nasce depois da Governança e da LCV)*
 
