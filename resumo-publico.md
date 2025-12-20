@@ -15,7 +15,7 @@ Que você pode:
 
 * ler;
 * estudar;
-* se inspirar;
+* contemplar;
 * refletir;
 * dialogar com os conceitos.
 
