@@ -1,9 +1,3 @@
-## **SEÇÃO I — PRINCÍPIOS GERAIS**
-
-(Esta seção ainda não está pronta) 
-
----
-
 ## **SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS**
 
 ---
