@@ -1,3 +1,7 @@
+## **SEÇÃO I — PRINCÍPIOS GERAIS**
+
+---
+
 ## **SEÇÃO II — DISPOSIÇÕES JURÍDICAS E OPERACIONAIS**
 
 ---
