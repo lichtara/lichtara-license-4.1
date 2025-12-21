@@ -1,4 +1,4 @@
-# **MANUAL DE APLICAÇÃO DA LICHTARA LICENSE v4.1**
+# **MANUAL DE APLICAÇÃO E INTERPRETAÇÃO DA LICHTARA LICENSE v4.1**
 
 *(Documento Oficial · Não Normativo · Interpretativo e Operacional)*
 
@@ -10,7 +10,7 @@ Este Manual tem por finalidade **orientar a aplicação correta, coerente e fiel
 
 Ele é:
 
-* **oficial** — reconhecido pela Governança LICHTARA;
+* **oficial** — reconhecido formalmente pela Governança LICHTARA;
 * **não normativo** — não cria direitos, deveres ou exceções;
 * **interpretativo** — esclarece o sentido dos dispositivos existentes;
 * **operacional** — orienta decisões práticas, auditorias e respostas institucionais.
@@ -23,7 +23,7 @@ Este Manual **não substitui**:
 
 Em caso de conflito, **prevalece sempre o texto da License**.
 
-**Nota Operacional M.1.1** — O Manual existe para evitar distorções, não para flexibilizar limites.
+**Nota Operacional M.1.1** — O Manual existe para evitar distorções interpretativas, não para flexibilizar limites.
 
 ---
 
@@ -38,7 +38,7 @@ Toda interpretação deve respeitar a seguinte hierarquia:
 3. **Anexos (A, B, C)**
 4. **Este Manual**
 
-Nenhuma interpretação é válida se:
+Nenhuma interpretação será considerada válida se:
 
 * contradizer princípios;
 * ampliar permissões por analogia;
@@ -73,7 +73,7 @@ Auditoria pode ser iniciada:
 * por amostragem periódica;
 * por solicitação institucional externa.
 
-Não há exigência de aviso prévio quando a integridade do Sistema estiver em risco.
+Não há exigência de aviso prévio quando a integridade do Sistema **ou da Forma** estiver em risco.
 
 ### 3.2 O que Auditar
 
@@ -111,7 +111,7 @@ A infração deve ser classificada como:
 * **uso não autorizado**;
 * **infração material**;
 * **violação grave**;
-* **violação estrutural** (Forma / LCV).
+* **violação estrutural** (Forma e/ou LCV).
 
 A classificação **não depende da intenção declarada**, mas dos **efeitos objetivos**.
 
@@ -178,7 +178,7 @@ A certificação deve observar:
 * compreensão dos limites;
 * adesão explícita à LCV.
 
-Certificação **não é prêmio**, nem reconhecimento simbólico.
+Certificação **não é prêmio**, nem reconhecimento simbólico ou reputacional.
 É **atribuição de responsabilidade acrescida**.
 
 ### 6.2 Processo Geral
@@ -230,5 +230,4 @@ Ele não flexibiliza a License.
 Ele **a mantém legível, aplicável e íntegra**.
 
 No Sistema LICHTARA,
-interpretar corretamente
-é parte essencial de operar legitimamente.
+interpretar corretamente é parte essencial de **qualquer atuação legítima** no Sistema.
