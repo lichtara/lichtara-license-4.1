@@ -40,6 +40,8 @@ A auditoria incide sobre **efeitos objetivos da atuação**, e não sobre narrat
 
 A auditoria pode incidir também sobre omissões relevantes quando houver dever positivo de atuação, comunicação ou registro.
 
+A inexistência de intenção dolosa não descaracteriza a necessidade de auditoria nem impede a adoção de medidas cautelares.
+
 ### **1.3 Âmbito de Incidência**
 
 Estão sujeitos à auditoria, entre outros:
@@ -254,8 +256,7 @@ A solicitação deve ser:
 * compatível com a License;
 * restrita ao escopo pertinente.
 
-Solicitações externas **não vinculam automaticamente** a Governança,
-mas podem justificar abertura de verificação interna.
+Solicitações externas **não vinculam automaticamente** a Governança, mas podem justificar abertura de verificação interna. A abertura de auditoria por solicitação institucional não confere às entidades solicitantes acesso irrestrito a registros internos da Governança.
 
 ---
 
@@ -459,6 +460,8 @@ podendo considerar qualquer material publicamente acessível ou legitimamente ob
 
 A ausência de documentação, quando exigida pela License ou pela certificação,
 **constitui evidência de não conformidade**.
+
+A ausência de contestação pelo agente auditado não implica concordância, nem invalida a análise objetiva realizada.
 
 ---
 
