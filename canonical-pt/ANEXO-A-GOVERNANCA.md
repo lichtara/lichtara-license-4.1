@@ -1,4 +1,4 @@
-# **ANEXO A — GOVERNANÇA LICHTARA**
+# **ANEXO A — GOVERNANÇA LICHTARA** 
 
 *(Forma · Limite · Autoridade · Responsabilidade)*
 
