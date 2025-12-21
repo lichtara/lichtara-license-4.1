@@ -144,6 +144,8 @@ Obrigatório:
 * declaração de origem;
 * preservação integral da Forma e LCV.
 
+  A exploração econômica não implica cessão ou compartilhamento de governança.
+
 **Nota Estrutural C.2.5.1** — Derivação sem conformidade rompe o vínculo com o Sistema.
 
 ---
