@@ -84,6 +84,7 @@ não para reagir apenas após o dano.
 ---
 
 ## **2. Princípios Estruturantes da Auditoria**
+que vinculam a Governança, os agentes auditados e quaisquer instâncias envolvidas
 
 Toda auditoria no âmbito do Sistema LICHTARA deve observar **Princípios Estruturantes** que vinculam a Governança, os agentes auditados e quaisquer instâncias envolvidas no processo.
 
@@ -164,7 +165,7 @@ A auditoria só é legítima quando pode ser **explicada, sustentada e reproduzi
 
 ## **3. Tipos de Auditoria e Gatilhos de Abertura**
 
-A auditoria no Sistema LICHTARA pode assumir **diferentes modalidades**, conforme a natureza da atuação, o nível de risco envolvido e o objetivo de governança a ser alcançado.
+A auditoria no Sistema LICHTARA pode assumir **diferentes modalidades**, conforme a natureza da atuação, o nível de risco envolvido e o objetivo de governança.
 
 A definição do tipo de auditoria **não implica presunção de infração**.
 Ela decorre da necessidade de **verificação proporcional** à responsabilidade exercida.
