@@ -1,4 +1,4 @@
-# LICHTARA LICENSE v4.1 — APPLICATION AND INTERPRETATION MANUAL (EN)
+## **LICHTARA LICENSE v4.1 — APPLICATION AND INTERPRETATION MANUAL (EN)**
 
 *(Official Document · Non-Normative · Interpretative and Operational)*
 
