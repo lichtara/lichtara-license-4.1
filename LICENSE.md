@@ -54,6 +54,8 @@ Quem atravessa limites, o faz fora do Sistema.
 
 Este é o pacto estrutural que este documento declara.
 
+Este documento vincula-se às normas aplicáveis de direito autoral, contratual e institucional, sem prejuízo de sua natureza própria.
+
 ---
 
 # Seção I — Princípios Gerais
@@ -933,7 +935,7 @@ Sem necessidade de certificação formal, o Usuário pode:
 
 3. Compartilhar excertos não modificados, sem finalidade comercial.
 
-4. Aplicar conceitos abstratos da Obra em sua vida pessoal ou profissional, desde que não configure derivação, ensino sistemático ou exploração comercial.
+4. Aplicar conceitos abstratos da Obra em sua vida pessoal ou profissional, desde que tal aplicação não gere produto, método estruturado, oferta pública ou transmissão sistemática a terceiros, desde que não configure derivação, ensino sistemático ou exploração comercial.
 
 O exercício desses direitos **não confere propriedade, controle ou autoria** sobre a Obra.
 
