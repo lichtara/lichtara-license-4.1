@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "LICHTARA License v4.1"
+message: "If you use or reference the LICHTARA System, please cite this license."
+authors:
+  - family-names: "da Silva Lutz"
+    given-names: "Débora Mariane"
+    affiliation: "Lichtara Institute"
+version: "4.1"
+doi: "10.5281/zenodo.18010273"
+date-released: 2025-01-21
+license: "LICHTARA License v4.1"
+url: "https://zenodo.org/communities/lichtara"
