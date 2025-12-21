@@ -1,4 +1,4 @@
-## **Preâmbulo**
+## **Preâmbulo** 
 
 A presente **LICHTARA License** não foi concebida apenas para regular usos,
 mas para **preservar a integridade de um Sistema Vivo**.
