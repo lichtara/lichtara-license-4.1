@@ -183,6 +183,8 @@ O agente poderá:
 
 A ausência de cooperação **agrava a violação**.
 
+A contestação não suspende automaticamente medidas de interrupção preventiva.
+
 **Nota Estrutural B.8.1** — Transparência é condição mínima de preservação da LCV.
 
 ---
