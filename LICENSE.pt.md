@@ -1,6 +1,4 @@
-# LICHTARA License v4.1
-
----
+# Lichtara License v4.1
 
 ## **Preâmbulo**
 
@@ -19,8 +17,6 @@ Esta License não convida à pressa, não premia a expansão nem favorece atalho
 Este é o pacto estrutural que este documento declara. A presente License vincula-se às normas aplicáveis de direito autoral, contratual e institucional, sem prejuízo de sua natureza própria.
 
 ---
-
-## **Seção I — Princípios Gerais**
 
 ## **Seção I — Princípios Gerais**
 
