@@ -1,4 +1,4 @@
-# Lichtara License 4.1 
+# Lichtara License v4.1 
 
 ## **Preamble**
 
