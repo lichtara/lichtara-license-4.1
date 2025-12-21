@@ -1,0 +1,21 @@
+{
+  "name": "LICHTARA License",
+  "version": "4.1",
+  "type": "governed legal framework",
+  "publisher": "Lichtara Institute",
+  "doi": "10.5281/zenodo.18010273",
+  "language": "en",
+  "normative": true,
+  "governance": {
+    "supreme_instrument": true,
+    "derivative_documents": false
+  },
+  "keywords": [
+    "information systems",
+    "governance frameworks",
+    "intellectual property",
+    "socio-technical systems",
+    "responsible AI",
+    "living systems"
+  ]
+}
