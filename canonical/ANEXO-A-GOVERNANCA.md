@@ -62,10 +62,7 @@ A Guardiã:
 * **não atua como prestadora de serviços**;
 * **não se submete a interesses externos**.
 
-Sua autoridade decorre
-exclusivamente
-da **função estrutural que exerce**,
-e não de mandato contratual ou delegação institucional.
+A Guardiã poderá ser pessoa natural ou estrutura formal designada nos documentos canônicos. Sua autoridade decorre exclusivamente da **função estrutural que exerce**, e não de mandato contratual ou delegação institucional. 
 
 **Nota Estrutural A.2.1** — Nenhuma instância pode sobrepor-se à Guardiã em matéria de Forma, Limite ou Princípios.
 
