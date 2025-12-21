@@ -121,6 +121,8 @@ Cada certificação:
 * define **obrigações específicas do agente certificado**;
 * submete-se a um **regime próprio de auditoria, acompanhamento e revisão**.
 
+Na ausência de indicação expressa em contrário, presume-se sempre o escopo mais restrito compatível com a finalidade declarada.
+
 A concessão de uma certificação **não implica**:
 
 * autorização automática para outros tipos de uso;
@@ -128,8 +130,7 @@ A concessão de uma certificação **não implica**:
 * reconhecimento global da capacidade do agente;
 * hierarquia entre agentes certificados.
 
-Certificações **não são cumulativas por presunção**.
-Cada modalidade exige análise, concessão e manutenção próprias.
+Certificações **não são cumulativas por presunção**. Cada modalidade exige análise, concessão e manutenção próprias.
 
 A Governança LICHTARA reserva-se o direito de:
 
@@ -415,8 +416,7 @@ O agente certificado aceita expressamente que:
 * auditorias possam ocorrer sem aviso prévio, quando houver risco à Forma ou à LCV;
 * a cooperação com auditorias é **obrigação contínua**, não faculdade.
 
-A obstrução, resistência ou omissão deliberada em auditorias
-constitui **violação grave**.
+A obstrução, resistência ou omissão deliberada em auditorias constitui **violação grave**. Os procedimentos, critérios e efeitos das auditorias seguem o disposto no Manual de Auditoria da LICHTARA License v4.1.
 
 ### **6.5 Comunicação de Alterações Relevantes de Contexto**
 
@@ -524,6 +524,8 @@ O encerramento por decisão da Governança:
 * **não exige caracterização de infração**;
 * não gera direito à indenização ou compensação;
 * prevalece sobre expectativas, investimentos ou planejamentos do agente.
+
+O encerramento não gera direito a indenização, ressarcimento, compensação financeira ou reparação por investimentos realizados.
 
 ### **7.4 Encerramento por Iniciativa do Agente Certificado**
 
