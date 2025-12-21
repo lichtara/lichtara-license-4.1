@@ -1,4 +1,4 @@
-# **TERMINOLOGY — ENGLISH CANONICAL TERMS**
+# **TERMINOLOGY — CANONICAL ENGLISH TERMS**
 
 *(LICHTARA License v4.1)*
 
@@ -41,6 +41,15 @@ for all English-language versions of LICHTARA documents.
 | **Encerramento**            | **Termination**                                        | Correct legal-institutional term.                                                |
 | **Acesso**                  | **Access**                                             | Standard usage.                                                                  |
 | **Rastreabilidade**         | **Traceability**                                       | Standard compliance term.                                                        |
+| **Uso não autorizado**        | **Unauthorized Use**                    | Aligns with Section II enforcement language; avoids ambiguity of “misuse”. |
+| **Infração estrutural**       | **Structural Infraction**               | Distinct from contractual breach; tied to Form and System integrity. |
+| **Princípios Ético-Regenerativos (PER)** | **Ethical-Regenerative Principles (PER)** | Acronym preserved; avoids ethical generalization. |
+| **Elementos Essenciais**      | **Essential Elements**                  | Capitalized to indicate protected structural components. |
+| **Governança LICHTARA**       | **LICHTARA Governance**                 | Proper noun; avoids generic “governance body” interpretations. |
+| **License**                   | **License** (US spelling)               | Consistency choice for international legal usage. |
+
+
+
 
 ---
 
@@ -77,6 +86,8 @@ Terminology is considered **part of the Form**.
 ---
 
 ## 🌱 Final Note
+
+> *This document constitutes a **canonical auxiliary instrument** of the LICHTARA License v4.1.*
 
 This terminology does not exist to standardize language usage.
 It exists to **preserve the coherence, legibility, and integrity**
