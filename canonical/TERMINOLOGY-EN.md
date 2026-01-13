@@ -2,10 +2,7 @@
 
 *(LICHTARA License v4.1)*
 
-This document establishes the **canonical English terminology**
-to be used throughout the LICHTARA License v4.1
-and all its associated canonical documents, annexes, manuals, mappings,
-and institutional materials.
+This document establishes the **canonical English terminology** to be used throughout the LICHTARA License v4.1 and all its associated canonical documents, annexes, manuals, mappings, and institutional materials.
 
 Its purpose is to ensure:
 
@@ -14,12 +11,11 @@ Its purpose is to ensure:
 * legal and institutional consistency in international contexts;
 * protection against reductive, metaphorical, or instrumental translations.
 
-Terminology defined herein is considered **structurally binding**
-for all English-language versions of LICHTARA documents.
+Terminology defined herein is considered **structurally binding** for all English-language versions of LICHTARA documents.
 
 ---
 
-## 🧭 Canonical Terminology Table (PT → EN)
+## Canonical Terminology Table (PT → EN)
 
 | Portuguese (PT)             | Canonical English (EN)                                 | Rationale                                                                        |
 | --------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------- |
@@ -49,11 +45,9 @@ for all English-language versions of LICHTARA documents.
 | **License**                   | **License** (US spelling)               | Consistency choice for international legal usage. |
 
 
-
-
 ---
 
-## 📌 Capitalization Rules (Structural Rule)
+## Capitalization Rules (Structural Rule)
 
 * **Ontological and structural terms** of the LICHTARA System
   → **Capitalized**
@@ -67,7 +61,7 @@ It reflects **ontological and normative distinction**.
 
 ---
 
-## ⚖️ Interpretative Rule
+## Interpretative Rule
 
 In case of doubt, ambiguity, or conflict:
 
@@ -85,16 +79,12 @@ Terminology is considered **part of the Form**.
 
 ---
 
-## 🌱 Final Note
+## Final Note
 
 > *This document constitutes a **canonical auxiliary instrument** of the LICHTARA License v4.1.*
 
-This terminology does not exist to standardize language usage.
-It exists to **preserve the coherence, legibility, and integrity**
-of a living System across languages.
+This terminology does not exist to standardize language usage. It exists to **preserve the coherence, legibility, and integrity** of a living System across languages.
 
-Where terminology is altered,
-Form is altered.
+Where terminology is altered, Form is altered.
 
-Where Form is altered,
-the System ceases to be present.
+Where Form is altered, the System ceases to be present.
