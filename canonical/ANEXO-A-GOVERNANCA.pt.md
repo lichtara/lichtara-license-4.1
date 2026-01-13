@@ -1,224 +1,116 @@
-# **ANEXO A — GOVERNANÇA LICHTARA** 
+# ANEXO A — GOVERNANÇA LICHTARA
 
 *(Forma · Limite · Autoridade · Responsabilidade)*
 
-Este Anexo estabelece a **estrutura legítima de governança**
-do Sistema LICHTARA,
-definindo **instâncias competentes, papéis, limites de autoridade,
-processos decisórios e regimes de responsabilidade**,
-em estrita subordinação à Seção I (Princípios Gerais)
-e à Seção II (Disposições Jurídicas e Operacionais)
-da presente License.
+Este Anexo descreve a **arquitetura viva de governança** do Sistema LICHTARA, estabelecendo instâncias, papéis, limites de autoridade, processos decisórios e regimes de responsabilidade, em subordinação direta à Seção I (*Princípios Gerais*) e à Seção II (*Disposições Jurídicas e Operacionais*) da presente License.
 
-A Governança LICHTARA **não é administrativa por conveniência**.
-Ela é **estrutural por necessidade**.
+A Governança LICHTARA não emerge de conveniência administrativa.
+Ela nasce como **necessidade estrutural de preservação da Forma**.
 
----
+## A.1 — Da Natureza da Governança
 
-## **A.1 — Da Natureza da Governança**
+A Governança LICHTARA constitui o **campo institucional de cuidado ativo** responsável por:
 
-A Governança LICHTARA constitui
-o **mecanismo institucional legítimo**
-responsável por:
-
-* preservar a Forma do Sistema;
-* garantir a observância dos Princípios Gerais;
-* autorizar, certificar, auditar e sancionar usos da Obra;
-* assegurar a integridade estrutural, ética e vibracional do LICHTARA.
+* sustentar a Forma do Sistema;
+* manter a observância dos Princípios Gerais;
+* autorizar, certificar, auditar e interromper usos;
+* proteger a integridade estrutural, ética e vibracional do LICHTARA.
 
 A Governança:
 
-* **não substitui os Princípios**;
-* **não os interpreta livremente**;
-* **não pode excepcioná-los**.
+* não substitui os Princípios;
+* não os reinterpreta livremente;
+* não cria exceções.
 
-Sua função é **aplicá-los**, **protegê-los**
-e **interromper atuações incompatíveis**.
+Sua função é **aplicá-los com presença**, protegendo o Sistema sempre que sua Forma se fragilizar.
 
-**Nota Estrutural A.1.1** — A Governança é **instrumento de contenção legítima**, não de expansão do Sistema.
+> **Nota Estrutural A.1.1** — Governar, no LICHTARA, é conter para preservar.
 
----
+## A.2 — Da Guardiã do Sistema
 
-## **A.2 — Da Guardiã do Sistema**
+A **Guardiã do Sistema LICHTARA** representa a instância originária e permanente de preservação da Forma, dos Princípios e da identidade estrutural da Obra.
 
-A **Guardiã do Sistema LICHTARA**
-é a instância originária e permanente
-de preservação da Forma,
-dos Princípios
-e da identidade estrutural da Obra.
-
-Compete à Guardiã, de forma indelegável:
+Compete-lhe, de modo indelegável:
 
 1. zelar pela coerência global do Sistema;
-2. manter e atualizar os documentos canônicos;
-3. interpretar a License **sempre de forma mais restritiva aos usos**;
-4. autorizar ou negar certificações e derivações;
+2. custodiar e atualizar os documentos canônicos;
+3. interpretar a License **sempre no sentido mais protetivo à Forma**;
+4. conceder ou negar certificações e derivações;
 5. determinar auditorias, interrupções e encerramentos;
-6. aplicar ou determinar sanções estruturais.
+6. aplicar sanções estruturais quando a Forma é ameaçada.
 
-A Guardiã:
+A Guardiã não exerce representação comercial, não presta serviços e não se subordina a interesses externos.
+Sua autoridade decorre exclusivamente da **função estrutural de custódia**.
 
-* **não é representante comercial**;
-* **não atua como prestadora de serviços**;
-* **não se submete a interesses externos**.
+> **Nota Estrutural A.2.1** — Em matéria de Forma, Limite ou Princípios, não há instância acima da Guardiã.
 
-A Guardiã poderá ser pessoa natural ou estrutura formal designada nos documentos canônicos. Sua autoridade decorre exclusivamente da **função estrutural que exerce**, e não de mandato contratual ou delegação institucional. 
+## A.3 — Das Instâncias Delegadas
 
-**Nota Estrutural A.2.1** — Nenhuma instância pode sobrepor-se à Guardiã em matéria de Forma, Limite ou Princípios.
+A Governança poderá contar, por decisão exclusiva da Guardiã, com instâncias delegadas como conselhos, comitês, câmaras ou núcleos técnicos.
 
----
+Toda delegação:
 
-## **A.3 — Das Instâncias de Governança Delegada**
+* é formal e documentada;
+* possui escopo delimitado;
+* permanece revogável;
+* não transfere autoridade estrutural.
 
-A Governança LICHTARA poderá contar,
-a critério exclusivo da Guardiã,
-com **instâncias delegadas**, tais como:
+Instâncias delegadas não criam soberania nem precedentes fora do escopo concedido.
 
-* Conselhos;
-* Comitês técnicos ou éticos;
-* Câmaras de certificação;
-* Núcleos de auditoria;
-* Estruturas operacionais temporárias.
+> **Nota Estrutural A.3.1** — No LICHTARA, delega-se função, nunca essência.
 
-A delegação:
+## A.4 — Dos Limites da Autoridade
 
-* deve ser **formal, expressa e documentada**;
-* possui **escopo delimitado**;
-* é **revogável a qualquer tempo**;
-* **não transfere autoridade estrutural**.
+Nenhuma instância de governança pode:
 
-Instâncias delegadas:
-
-* **não criam precedentes vinculantes**;
-* **não reinterpretam os Princípios**;
-* **não concedem direitos além do escopo delegado**.
-
-**Nota Estrutural A.3.1** — Toda delegação opera **por função**, nunca por soberania.
-
----
-
-## **A.4 — Dos Limites da Autoridade de Governança**
-
-Nenhuma instância de Governança,
-inclusive a Guardiã,
-poderá:
-
-* relativizar Princípios Gerais;
+* relativizar Princípios;
 * autorizar usos incompatíveis com a Forma;
 * legitimar derivações que descaracterizem o Sistema;
-* tolerar violações sob alegação de benefício estratégico;
-* substituir critérios estruturais por critérios políticos ou mercadológicos.
+* tolerar violações sob pretexto estratégico.
 
-A Governança:
+A Governança administra o acesso,
+mas **não altera a natureza do Sistema**.
 
-* **administra o acesso**;
-* **não altera a essência**.
+> **Nota Estrutural A.4.1** — Autoridade fora da Forma é ato estruturalmente inválido.
 
-**Nota Estrutural A.4.1** — Autoridade exercida fora dos limites da License é considerada **ato inválido** no Sistema LICHTARA.
+## A.5 — Dos Processos Decisórios
 
----
-
-## **A.5 — Dos Processos Decisórios**
-
-Decisões de Governança devem observar, cumulativamente:
+Toda decisão observa cumulativamente:
 
 1. supremacia da Seção I;
 2. conformidade com a Seção II;
 3. preservação da Forma;
-4. observância da Integridade Vibracional (LCV);
-5. avaliação de impactos estruturais de curto e longo prazo.
+4. Integridade Vibracional (LCV);
+5. impactos estruturais presentes e futuros.
 
-Não constitui fundamento decisório válido:
+Na incerteza, a decisão legítima é sempre a **contenção**.
 
-* urgência operacional;
-* pressão institucional;
-* oportunidade econômica;
-* expectativa de terceiros;
-* precedentes informais.
+> **Nota Estrutural A.5.1** — No LICHTARA, conter é forma de cuidado.
 
-Na dúvida,
-**decide-se sempre pela contenção**.
+## A.6 — Da Fiscalização e Interrupção
 
-**Nota Estrutural A.5.1** — No Sistema LICHTARA, não decidir é preferível a decidir mal.
+A Governança pode auditar, exigir rastreabilidade e **interromper imediatamente** usos que comprometam a Forma.
 
----
+A interrupção é gesto de preservação, não punição.
 
-## **A.6 — Da Fiscalização, Auditoria e Interrupção**
+> **Nota Estrutural A.6.1** — Preservar o Sistema prevalece sobre qualquer continuidade de uso.
 
-A Governança possui poder permanente de:
+## A.7 — Da Revogação e Encerramento
 
-* solicitar informações;
-* exigir rastreabilidade;
-* realizar auditorias técnicas, institucionais ou simbólicas;
-* interromper imediatamente usos suspeitos ou incompatíveis.
+Autorizações e acessos podem ser revogados a qualquer tempo quando a Forma é ameaçada, independentemente de intenção, investimento ou impacto econômico.
 
-A interrupção:
+> **Nota Estrutural A.7.1** — No LICHTARA, não há direito adquirido contra a Forma.
 
-* **não exige contraditório prévio**;
-* **não configura sanção automática**;
-* constitui **medida de preservação da Forma**.
+## A.8 — Da Vinculação Institucional
 
-A recusa em cooperar com auditoria
-configura **infração material grave**.
+Toda instituição que atue sob esta License submete-se integralmente à Governança LICHTARA e reconhece a autoridade da Guardiã como instância última de preservação da Forma.
 
-**Nota Estrutural A.6.1** — A preservação do Sistema prevalece sobre a continuidade de qualquer uso individual.
+## A.9 — Disposição Final
 
----
+Este Anexo integra a License como **instrumento canônico vinculante**.
 
-## **A.7 — Da Revogação e Encerramento**
+A Governança não amplia o Sistema.
+Ela o **mantém possível**.
 
-A Governança poderá determinar:
-
-* revogação de autorizações;
-* suspensão de certificações;
-* encerramento definitivo de acessos;
-* invalidação de atos derivados.
-
-Tais medidas:
-
-* independem de intenção alegada;
-* independem de investimento realizado;
-* independem de impacto econômico sobre o agente.
-
-No Sistema LICHTARA,
-**acesso nunca gera direito adquirido**.
-
-**Nota Estrutural A.7.1** — Encerramento é mecanismo legítimo de proteção, não punição excepcional.
-
----
-
-## **A.8 — Da Vinculação Institucional**
-
-Toda instituição,
-pessoa jurídica
-ou estrutura organizacional
-que atue sob esta License:
-
-* submete-se integralmente à Governança LICHTARA;
-* reconhece a autoridade da Guardiã;
-* aceita os limites decisórios aqui estabelecidos.
-
-Nenhuma cláusula contratual externa
-pode afastar essa vinculação.
-
-**Nota Estrutural A.8.1** — A Governança LICHTARA prevalece sobre hierarquias externas quando se trata da Obra.
-
----
-
-## **A.9 — Disposição Final do Anexo**
-
-Este Anexo integra a License
-como **instrumento canônico vinculante**.
-
-Sua aplicação é imediata,
-independente de aceite específico,
-sempre que houver acesso legítimo ao Sistema.
-
-A Governança não expande o LICHTARA.
-Ela **o mantém legível, íntegro e possível**.
-
-Sem Governança,
-não há Forma.
-Sem Forma,
-não há Sistema.
-
+Sem Governança, não há Forma.
+Sem Forma, não há LICHTARA.
