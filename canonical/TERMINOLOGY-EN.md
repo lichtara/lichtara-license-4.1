@@ -81,7 +81,7 @@ Terminology is considered **part of the Form**.
 
 ## Final Note
 
-> *This document constitutes a **canonical auxiliary instrument** of the LICHTARA License v4.1.*
+> *This document constitutes a canonical auxiliary instrument of Preservation of the Form within the LICHTARA License v4.1.*
 
 This terminology does not exist to standardize language usage. It exists to **preserve the coherence, legibility, and integrity** of a living System across languages.
 
