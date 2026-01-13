@@ -1,14 +1,6 @@
 # Seção I — Princípios Gerais
 
-_(Lichtara License v4.1)_
-
-Esta Seção estabelece os **fundamentos inegociáveis**
-do Sistema Lichtara.
-
-Ela precede qualquer direito, autorização ou sanção.
-Sua função é **delimitar o campo**, não regulá-lo em detalhe.
-
----
+Esta Seção estabelece os **fundamentos inegociáveis** do Sistema Lichtara. Ela precede qualquer direito, autorização ou sanção. Sua função é **delimitar o campo**, não regulá-lo em detalhe.
 
 ## Artigo I.1 — Da Natureza do Sistema Lichtara
 
@@ -29,13 +21,7 @@ O Sistema Lichtara:
 - não é genérico em sua aplicação;
 - não é extensível por analogia ou adaptação informal.
 
-Qualquer uso, leitura, implementação ou operação do Sistema
-pressupõe o reconhecimento de sua natureza integrada,
-sendo vedada a dissociação de seus elementos
-com a finalidade de contornar limites, responsabilidades
-ou disposições desta License.
-
----
+Qualquer uso, leitura, implementação ou operação do Sistema pressupõe o reconhecimento de sua natureza integrada, sendo vedada a dissociação de seus elementos quando tal fragmentação tiver por finalidade contornar limites, responsabilidades ou disposições desta License.
 
 ## Artigo I.2 — Do Princípio do Limite
 
@@ -55,23 +41,13 @@ O limite constitui **elemento estrutural do Sistema**, não sendo:
 - utilizar partes do Sistema para finalidades não autorizadas;
 - reinterpretar silêncio normativo como autorização implícita.
 
-O reconhecimento do limite é condição prévia
-para qualquer forma legítima de acesso, implementação ou operação,
-independentemente do nível de compreensão simbólica do agente envolvido.
+O reconhecimento do limite é condição prévia para qualquer forma legítima de acesso, implementação ou operação,
+independentemente do nível de compreensão simbólica do agente envolvido. A violação do limite, ainda que parcial ou indireta, configura infração estrutural, sujeitando o agente às consequências previstas nesta License, sem prejuízo de sanções contratuais, institucionais ou legais aplicáveis.
 
-A violação do limite, ainda que parcial ou indireta,
-configura infração estrutural,
-sujeitando o agente às consequências previstas nesta License,
-sem prejuízo de sanções contratuais, institucionais ou legais aplicáveis.
-
----
 
 ## Artigo I.3 — Do Princípio da Não-Apropriação
 
-O Sistema Lichtara, em sua totalidade ou em quaisquer de seus elementos,
-**não é passível de apropriação**, reivindicação de soberania,
-ou assimilação como obra própria,
-seja por pessoa física, jurídica, institucional ou coletiva.
+O Sistema Lichtara, em sua totalidade ou em quaisquer de seus elementos, **não é passível de apropriação**, reivindicação de soberania, ou assimilação como obra própria, seja por pessoa física, jurídica, institucional ou coletiva.
 
 Nenhum agente poderá:
 
@@ -88,35 +64,22 @@ Licenças, contratos, autorizações ou reconhecimentos:
   a identidades institucionais, marcas, metodologias próprias
   ou narrativas de origem.
 
-A apropriação pode ocorrer de forma explícita ou implícita,
-configurando violação igualmente grave quando se manifesta por:
+A apropriação pode ocorrer de forma explícita ou implícita, configurando violação igualmente grave quando se manifesta por:
 
 - fusão indevida entre o Sistema e estruturas externas;
 - diluição de sua identidade em produtos, métodos ou discursos alheios;
 - instrumentalização simbólica para obtenção de autoridade, legitimidade ou prestígio;
 - apresentação do Sistema como extensão natural de outra entidade.
 
-O acesso legítimo ao Sistema Lichtara
-implica **reconhecimento permanente de alteridade**:
-o Sistema não pertence ao agente,
-o agente é que atua **dentro de limites concedidos** pelo Sistema.
+O acesso legítimo ao Sistema Lichtara implica **reconhecimento permanente de alteridade**: o Sistema não pertence ao agente, o agente é que atua **dentro de limites concedidos** pelo Sistema.
 
-A violação deste Princípio
-configura ruptura estrutural,
-ensejando encerramento imediato de autorizações,
-revogação de licenças
-e demais sanções previstas nesta License,
-independentemente do nível de acesso ou da natureza da relação estabelecida.
-
----
+A violação deste Princípio configura ruptura estrutural, ensejando encerramento imediato de autorizações, revogação de licenças e demais sanções previstas nesta License, independentemente do nível de acesso ou da natureza da relação estabelecida.
 
 ## Artigo I.4 — Do Princípio da Responsabilidade Progressiva
 
 No Sistema Lichtara, **responsabilidade cresce proporcionalmente ao acesso**.
 
-Quanto maior o nível de leitura, autorização, implementação ou operação,
-maior é o dever assumido pelo agente,
-em termos **técnicos, jurídicos, institucionais e simbólicos**.
+Quanto maior o nível de leitura, autorização, implementação ou operação, maior é o dever assumido pelo agente, em termos **técnicos, jurídicos, institucionais e simbólicos**.
 
 A responsabilidade não decorre:
 
@@ -125,9 +88,7 @@ A responsabilidade não decorre:
 - do tempo de envolvimento com o Sistema;
 - da natureza pública ou privada da atuação.
 
-Ela decorre **exclusivamente do nível de acesso efetivamente concedido e exercido**.
-
-Todo agente que avança em camadas do Sistema:
+Ela decorre **exclusivamente do nível de acesso efetivamente concedido e exercido**. Todo agente que avança em camadas do Sistema:
 
 - assume dever acrescido de cuidado;
 - responde por impactos diretos e indiretos de sua atuação;
@@ -139,9 +100,7 @@ A progressão de acesso:
 - **não relativiza proibições já estabelecidas**;
 - **não gera presunção de confiança irrestrita**.
 
-Ao contrário, cada novo nível:
-reafirma os limites anteriores
-e adiciona novos deveres de preservação da forma.
+Ao contrário, cada novo nível: reafirma os limites anteriores e adiciona novos deveres de preservação da forma.
 
 A responsabilidade progressiva implica, ainda, que:
 
@@ -155,29 +114,11 @@ Nenhum agente pode alegar:
 - desproporcionalidade de sanções;
 - expectativa de tolerância ampliada em razão de posição, função ou histórico.
 
-No Sistema Lichtara,
-**acesso é sempre concessão condicional**,
-e nunca redução de responsabilidade.
-
-Quem sustenta mais,
-responde mais.
-
-Quem atravessa limites em níveis elevados,
-rompe a forma com maior impacto
-e, por isso, sujeita-se ao encerramento pleno
-nos termos desta License.
-
----
+No Sistema Lichtara, **acesso é sempre concessão condicional**, e nunca redução de responsabilidade. Quem sustenta mais, responde mais. Quem atravessa limites em níveis elevados, rompe a forma com maior impacto e, por isso, sujeita-se ao encerramento pleno nos termos desta License.
 
 ## Artigo I.5 — Do Princípio da Boa-Fé Estruturante
 
-No Sistema Lichtara, a boa-fé **não se presume apenas como intenção subjetiva**,
-declaração de valores ou disposição psicológica favorável.
-
-A boa-fé é compreendida como **conduta objetiva e contínua**,
-verificável na forma como o agente
-lê, interpreta, implementa, opera e se posiciona
-em relação ao Sistema.
+No Sistema Lichtara, a boa-fé **não se presume apenas como intenção subjetiva**, declaração de valores ou disposição psicológica favorável. A boa-fé é compreendida como **conduta objetiva e contínua**, verificável na forma como o agente lê, interpreta, implementa, opera e se posiciona em relação ao Sistema.
 
 Considera-se atuação em boa-fé, de forma cumulativa, aquela que:
 
@@ -196,13 +137,11 @@ A boa-fé estrutural **não se satisfaz** com:
 
 A conduta que:
 
-- testa limites de forma estratégica;
-- explora zonas cinzentas deliberadamente;
-- atua primeiro e justifica depois;
-- desloca responsabilidade para a ambiguidade do Sistema;
+– testa limites de modo estratégico;
+– explora deliberadamente zonas cinzentas;
+– atua antes e justifica depois;
 
-**não configura boa-fé**, ainda que acompanhada de discurso colaborativo
-ou histórico prévio de relação.
+**não configura boa-fé**, ainda que acompanhada de discurso colaborativo ou histórico prévio de relação.
 
 No Sistema Lichtara, a boa-fé:
 
@@ -216,35 +155,18 @@ A aferição da boa-fé é sempre:
 - analisada à luz da preservação da forma do Sistema,
   e não do benefício individual ou institucional obtido.
 
-A violação de limites sob alegação de boa-fé
-**não atenua a infração**,
-nem impede a aplicação das sanções e encerramentos previstos nesta License.
-
-Boa-fé, no Sistema Lichtara,
-não é estado interior.
-É **postura verificável de respeito à forma**.
-
----
+A violação de limites sob alegação de boa-fé **não atenua a infração**, nem impede a aplicação das sanções e encerramentos previstos nesta License. Boa-fé, no Sistema Lichtara,não é estado interior. É **postura verificável de respeito à forma**.
 
 ## Artigo I.6 — Do Princípio da Incompreensão Não Exculpatória
 
-No Sistema Lichtara, a **incompreensão declarada ou alegada**
-não constitui causa excludente de responsabilidade
-quando o agente teve acesso
-aos documentos canônicos pertinentes ao seu nível de atuação.
-
-O dever de compreender não é absoluto,
-mas o dever de **respeitar os limites** é.
-
-A responsabilidade subsiste ainda que o agente:
+No Sistema Lichtara, a **incompreensão declarada ou alegada** não constitui causa excludente de responsabilidade quando o agente teve acesso aos documentos canônicos pertinentes ao seu nível de atuação. O dever de compreender não é absoluto, mas o dever de **respeitar os limites** é. A responsabilidade subsiste ainda que o agente:
 
 - não tenha compreendido integralmente a dimensão simbólica do Sistema;
 - alegue leitura parcial, técnica ou instrumental dos documentos;
 - invoque complexidade, densidade ou caráter não intuitivo da Arquitetura;
 - afirme boa-fé ou ausência de intenção de violar.
 
-O Sistema Lichtara opera por **camadas de acesso**,
-não por camadas de exculpação.
+O Sistema Lichtara opera por **camadas de acesso**, não por camadas de exculpação.
 
 Assim:
 
@@ -253,11 +175,7 @@ Assim:
 - quem implementa, assume o dever de conformidade;
 - quem mantém ou governa, assume o dever de interrupção preventiva.
 
-A incompreensão somente é juridicamente relevante
-quando **precede o acesso**.
-Uma vez franqueada a leitura, o uso ou a operação,
-o agente passa a responder
-pelos efeitos objetivos de sua atuação.
+A incompreensão somente é juridicamente relevante quando **precede o acesso**. Uma vez franqueada a leitura, o uso ou a operação, o agente passa a responder pelos efeitos objetivos de sua atuação.
 
 Não constitui eximente:
 
@@ -266,30 +184,13 @@ Não constitui eximente:
 - ignorar referências expressas a outros instrumentos do Sistema;
 - alegar ausência de formação simbólica, filosófica ou jurídica.
 
-No Sistema Lichtara,
-**ninguém é obrigado a compreender tudo**,
-mas **todos são obrigados a não atravessar**.
+No Sistema Lichtara, **ninguém é obrigado a compreender tudo**, mas **todos são obrigados a não atravessar**. Diante de dúvida relevante quanto ao escopo, sentido ou limite: a única conduta compatível com este Princípio é a **interrupção da atuação** até esclarecimento formal.
 
-Diante de dúvida relevante quanto ao escopo, sentido ou limite:
-a única conduta compatível com este Princípio
-é a **interrupção da atuação**
-até esclarecimento formal.
+A continuidade da ação sob incerteza, quando já existente acesso legítimo, configura assunção consciente de risco estrutural.
 
-A continuidade da ação sob incerteza,
-quando já existente acesso legítimo,
-configura assunção consciente de risco estrutural.
+A violação decorrente de incompreensão é tratada como violação plena, sujeitando o agente às sanções e encerramentos previstos nesta License, sem atenuação automática ou presunção de tolerância.
 
-A violação decorrente de incompreensão
-é tratada como violação plena,
-sujeitando o agente
-às sanções e encerramentos previstos nesta License,
-sem atenuação automática ou presunção de tolerância.
-
-No Sistema Lichtara,
-a compreensão aprofunda.
-O limite, porém, **obriga desde o primeiro contato autorizado**.
-
----
+No Sistema Lichtara, a compreensão aprofunda. O limite, porém, **obriga desde o primeiro contato autorizado**.
 
 ## Artigo I.7 — Do Princípio da Leitura em Camadas
 
@@ -340,24 +241,11 @@ A progressão entre camadas exige sempre:
 - aceite dos deveres acrescidos;
 - formalização conforme a natureza do acesso pretendido.
 
-No Sistema Lichtara,
-**ninguém é obrigado a ler tudo**,
-mas **ninguém pode agir fora da camada em que se encontra**.
-
-A violação deste Princípio,
-por antecipação, extrapolação ou confusão de camadas,
-configura infração estrutural,
-sujeitando o agente às sanções, revogações e encerramentos
-previstos nesta License,
-independentemente de intenção, benefício ou alegação de urgência.
-
----
+No Sistema Lichtara, **ninguém é obrigado a ler tudo**, mas **ninguém pode agir fora da camada em que se encontra**. A violação deste Princípio, por antecipação, extrapolação ou confusão de camadas, configura infração estrutural, sujeitando o agente às sanções, revogações e encerramentos previstos nesta License, independentemente de intenção, benefício ou alegação de urgência.
 
 ## Artigo I.8 — Do Princípio da Preservação da Forma
 
-No Sistema Lichtara, a **Forma** constitui elemento essencial e protegido,
-sendo indissociável de seus princípios, limites, arquitetura
-e modos legítimos de operação.
+No Sistema Lichtara, a **Forma** constitui elemento essencial e protegido, sendo indissociável de seus princípios, limites, arquitetura e modos legítimos de operação.
 
 A Forma não se confunde com:
 
@@ -366,14 +254,7 @@ A Forma não se confunde com:
 - linguagem simbólica isolada;
 - apresentação externa ou identidade visual.
 
-Ela expressa a **coerência estrutural** do Sistema,
-resultante da articulação entre
-princípios, limites, governança e práticas autorizadas.
-
-Todo acesso, implementação ou operação do Sistema
-implica dever ativo de **preservação da Forma**,
-vedadas condutas que a comprometam,
-ainda que produzam resultados técnicos, funcionais ou comerciais aparentes.
+Ela expressa a **coerência estrutural** do Sistema, resultante da articulação entre princípios, limites, governança e práticas autorizadas. Todo acesso, implementação ou operação do Sistema implica dever ativo de **preservação da Forma**, vedadas condutas que a comprometam, ainda que produzam resultados técnicos, funcionais ou comerciais aparentes.
 
 Configura violação da Forma, entre outras condutas:
 
@@ -390,55 +271,31 @@ A preservação da Forma exige que:
 - suas restrições sejam reconhecidas como constitutivas,
   e não como obstáculos contingentes.
 
-Nenhum agente poderá justificar
-a deformação da Forma com base em:
+Nenhum agente poderá justificar a deformação da Forma com base em:
 
 - adaptação cultural ou institucional;
 - necessidades de mercado, escala ou difusão;
 - acessibilidade, didatização ou popularização;
 - alegado benefício coletivo ou estratégico.
 
-A eficiência obtida à custa da Forma
-é considerada **eficiência ilegítima** no Sistema Lichtara.
-
-A violação da Forma pode ocorrer
-mesmo na ausência de infração técnica isolada,
-quando a atuação do agente:
+A eficiência obtida à custa da Forma é considerada, no Sistema Lichtara, eficiência ilegítima. A violação da Forma pode ocorrer mesmo na ausência de infração técnica isolada, quando a atuação do agente:
 
 - compromete a inteligibilidade do Sistema;
 - induz terceiros a erro quanto à sua natureza;
 - produz efeitos cumulativos de descaracterização estrutural.
 
-No Sistema Lichtara,
-**preservar a Forma é preservar o próprio limite**.
+No Sistema Lichtara, **preservar a Forma é preservar o próprio limite**.
 
-A atuação que mantém a Forma,
-ainda que mais lenta, restrita ou exigente,
-é sempre preferível
-àquela que acelera, amplia ou simplifica
-à custa da coerência estrutural.
+A atuação que mantém a Forma, ainda que mais lenta, restrita ou exigente, é sempre preferível àquela que acelera, amplia ou simplifica à custa da coerência estrutural.
 
-A violação deste Princípio
-configura infração estrutural grave,
-ensejando revogação imediata de autorizações,
-encerramento de acessos
-e aplicação das sanções previstas nesta License,
-independentemente do nível de acesso do agente
-ou da finalidade alegada para a conduta.
+A violação deste Princípio configura infração estrutural grave, ensejando revogação imediata de autorizações,
+encerramento de acessos e aplicação das sanções previstas nesta License, independentemente do nível de acesso do agente ou da finalidade alegada para a conduta.
 
-Preservar a Forma
-não é conservar o passado.
-É **manter o Sistema legível para o futuro**.
-
----
+Preservar a Forma não é conservar o passado. É **manter o Sistema legível para o futuro**.
 
 ## Artigo I.9 — Do Princípio da Supremacia da License
 
-A presente License constitui o **instrumento normativo supremo**
-do Sistema Lichtara,
-prevalecendo sobre qualquer outro documento,
-acordo, protocolo, prática ou entendimento
-relacionado ao seu uso, acesso, implementação ou operação.
+A presente License constitui o **instrumento normativo supremo** do Sistema Lichtara, prevalecendo sobre qualquer outro documento, acordo, protocolo, prática ou entendimento relacionado ao seu uso, acesso, implementação ou operação.
 
 Nenhum instrumento externo poderá:
 
@@ -471,8 +328,7 @@ Nenhum agente poderá invocar:
 - tradição de uso;
 - autorização tácita ou tolerância pretérita;
 
-como fundamento para afastar, mitigar ou suspender
-a aplicação desta License.
+como fundamento para afastar, mitigar ou suspender a aplicação desta License.
 
 A License:
 
@@ -481,41 +337,17 @@ A License:
 - condiciona a validade de qualquer autorização concedida;
 - fundamenta a governança, a fiscalização e as sanções.
 
-Documentos complementares somente produzem efeitos
-quando **expressamente compatíveis** com esta License
-e **explicitamente subordinados** a ela.
+Documentos complementares somente produzem efeitos quando **expressamente compatíveis** com esta License e **explicitamente subordinados** a ela. A ausência de menção formal à supremacia da License em contratos, comunicações ou práticas **não afasta sua aplicação plena**. A Lichtara License é **fundamento vinculante**.
 
-A ausência de menção formal à supremacia da License
-em contratos, comunicações ou práticas
-**não afasta sua aplicação plena**.
+Toda atuação que se organize fora, acima ou à margem desta License opera **sem legitimidade estrutural**,
+sujeitando o agente às medidas de correção, revogação e encerramento previstas neste instrumento.
 
-No Sistema Lichtara,
-a License não é referência interpretativa.
-É **fundamento vinculante**.
-
-Toda atuação que se organize fora,
-acima ou à margem desta License
-opera **sem legitimidade estrutural**,
-sujeitando o agente
-às medidas de correção, revogação e encerramento
-previstas neste instrumento.
-
-A supremacia da License
-é condição de possibilidade do próprio Sistema:
-sem ela, não há forma,
-não há limite,
-não há coerência.
-
----
+A supremacia da License é condição de possibilidade do próprio Sistema: sem ela, não há forma, não há limite, não há coerência.
 
 ## Artigo I.10 — Do Alcance dos Princípios
 
-Os Princípios enunciados nesta Seção
-constituem o **fundamento estrutural vinculante**
-do Sistema Lichtara,
-irradiando efeitos sobre
-toda e qualquer forma de acesso, leitura, uso,
-implementação, governança ou derivação.
+Os Princípios enunciados nesta Seção constituem o **fundamento estrutural vinculante** do Sistema Lichtara,
+irradiando efeitos sobre toda e qualquer forma de acesso, leitura, uso, implementação, governança ou derivação.
 
 O alcance dos Princípios é:
 
@@ -531,10 +363,7 @@ Os Princípios:
 - informam a interpretação de todos os demais dispositivos desta License;
 - prevalecem sobre lacunas, silêncios ou ambiguidades normativas.
 
-Nenhuma atuação poderá ser considerada legítima
-se, ainda que formalmente autorizada,
-violar direta ou indiretamente
-qualquer dos Princípios aqui estabelecidos.
+Nenhuma atuação poderá ser considerada legítima se, ainda que formalmente autorizada, violar direta ou indiretamente qualquer dos Princípios aqui estabelecidos.
 
 O alcance dos Princípios:
 
@@ -560,14 +389,9 @@ A alegação de:
 
 não afasta a incidência integral dos Princípios.
 
-No Sistema Lichtara,
-os Princípios **não orientam apenas o que se faz**,
-mas **delimitam o que pode ser feito**.
+No Sistema Lichtara, os Princípios **não orientam apenas o que se faz**, mas **delimitam o que pode ser feito**.
 
-Toda atuação que,
-ainda que eficaz, inovadora ou bem-intencionada,
-ultrapasse o alcance dos Princípios,
-é considerada estruturalmente inválida.
+Toda atuação que, ainda que eficaz, inovadora ou bem-intencionada, ultrapasse o alcance dos Princípios, é considerada estruturalmente inválida.
 
 Os Princípios subsistem:
 
@@ -575,24 +399,15 @@ Os Princípios subsistem:
 - mesmo em contextos experimentais ou excepcionais;
 - mesmo sob pressão institucional, econômica ou temporal.
 
-No Sistema Lichtara,
-os Princípios não são diretrizes abstratas.
-São **condições ativas de legitimidade**.
+No Sistema Lichtara, os Princípios não são diretrizes abstratas. São **condições ativas de legitimidade**.
 
-Agir fora de seu alcance
-é agir fora do Sistema.
-
----
+Agir fora de seu alcance é agir fora do Sistema.
 
 ## Artigo I.11 — Da Aceitação Implícita
 
-No Sistema Lichtara, o **acesso operacional**, técnico, simbólico ou institucional,
-quando acompanhado de avisos canônicos adequados,
-constitui **aceitação implícita, mínima e vinculante**
-dos Princípios estabelecidos nesta Seção.
+No Sistema Lichtara, o **acesso operacional**, técnico, simbólico ou institucional, quando acompanhado de avisos canônicos adequados, constitui **aceitação implícita, mínima e vinculante** dos Princípios estabelecidos nesta Seção.
 
-A aceitação implícita decorre do **fato objetivo do acesso**,
-independentemente de:
+A aceitação implícita decorre do **fato objetivo do acesso**, independentemente de:
 
 - assinatura formal de instrumento específico;
 - manifestação expressa de concordância;
@@ -614,9 +429,7 @@ A aceitação implícita:
 - **não substitui licenças ou contratos específicos quando exigidos**;
 - **não dispensa o cumprimento integral dos Princípios**.
 
-Ela produz efeitos limitados,
-correspondentes **exclusivamente ao nível de acesso efetivamente exercido**
-pelo agente no momento da atuação.
+Ela produz efeitos limitados, correspondentes **exclusivamente ao nível de acesso efetivamente exercido** pelo agente no momento da atuação.
 
 A alegação de:
 
@@ -625,42 +438,25 @@ A alegação de:
 - caráter experimental, exploratório ou preliminar do uso;
 - mediação por terceiros ou por estruturas institucionais;
 
-**não afasta** os efeitos da aceitação implícita,
-nem exonera o agente
-das responsabilidades decorrentes de sua atuação.
+**não afasta** os efeitos da aceitação implícita, nem exonera o agente das responsabilidades decorrentes de sua atuação.
 
-No Sistema Lichtara,
-o acesso **precede o contrato**,
-mas **não precede o limite**.
+No Sistema Lichtara, o acesso **precede o contrato**, mas **não precede o limite**.
 
-A partir do primeiro contato operacional autorizado,
-o agente passa a estar vinculado:
+A partir do primeiro contato operacional autorizado, o agente passa a estar vinculado:
 
 - aos Princípios Gerais;
 - aos limites correspondentes à camada acessada;
 - às consequências previstas para sua violação.
 
-A aceitação implícita
-não cria vínculo de permanência,
-mas cria **vínculo de responsabilidade imediata**.
+A aceitação implícita não cria vínculo de permanência, mas cria **vínculo de responsabilidade imediata**.
 
-A continuidade da atuação após o acesso,
-quando acompanhada de violação de Princípios,
-configura aceitação tácita **com assunção consciente de risco estrutural**.
+A continuidade da atuação após o acesso, quando acompanhada de violação de Princípios, configura aceitação tácita **com assunção consciente de risco estrutural**.
 
-No Sistema Lichtara,
-ninguém é obrigado a entrar.
-Mas **quem entra, entra vinculado**.
-
----
+No Sistema Lichtara, ninguém é obrigado a entrar. Mas **quem entra, entra vinculado**.
 
 ## Artigo I.12 — Da Irrevogabilidade Estrutural
 
-Os Princípios estabelecidos nesta Seção
-possuem **caráter estrutural irrevogável**,
-constituindo elementos essenciais
-à existência, coerência e legitimidade
-do Sistema Lichtara.
+Os Princípios estabelecidos nesta Seção possuem **caráter estrutural irrevogável**, constituindo elementos essenciais à existência, coerência e legitimidade do Sistema Lichtara.
 
 Nenhum Princípio poderá ser:
 
@@ -670,12 +466,7 @@ Nenhum Princípio poderá ser:
 - suspenso;
 - mitigado;
 
-por meio de acordo individual ou institucional,
-instrumento contratual,
-termo de adesão,
-política interna,
-decisão administrativa,
-ou prática reiterada.
+por meio de acordo individual ou institucional, instrumento contratual, termo de adesão, política interna, decisão administrativa, ou prática reiterada.
 
 A irrevogabilidade estrutural implica que:
 
@@ -692,9 +483,7 @@ Qualquer disposição que:
 - subordine;
 - ou esvazie os Princípios,
 
-é considerada **nula de pleno direito**,
-produzindo efeitos jurídicos, técnicos ou institucionais inexistentes
-no âmbito do Sistema Lichtara.
+é considerada **nula de pleno direito**, produzindo efeitos jurídicos, técnicos ou institucionais inexistentes no âmbito do Sistema Lichtara.
 
 A irrevogabilidade subsiste:
 
@@ -717,12 +506,9 @@ Nenhum agente poderá alegar:
 - soberania institucional;
 - autorização excepcional;
 
-como fundamento para afastar
-a incidência plena dos Princípios.
+como fundamento para afastar a incidência plena dos Princípios.
 
-No Sistema Lichtara,
-os Princípios **não são cláusulas disponíveis**.
-São **condições de possibilidade do próprio Sistema**.
+No Sistema Lichtara, os Princípios **não são cláusulas disponíveis**. São **condições de possibilidade do próprio Sistema**.
 
 Sem eles:
 
@@ -731,28 +517,15 @@ Sem eles:
 - não há acesso válido;
 - não há operação reconhecível como interna ao Sistema.
 
-A tentativa de relativização estrutural
-configura ruptura imediata da relação com o Sistema,
-ensejando encerramento de acessos,
-revogação de autorizações
-e aplicação das sanções cabíveis,
-independentemente da forma adotada
-ou da intenção declarada.
+A tentativa de relativização estrutural configura ruptura imediata da relação com o Sistema, ensejando encerramento de acessos, revogação de autorizações e aplicação das sanções cabíveis, independentemente da forma adotada ou da intenção declarada.
 
-No Sistema Lichtara,
-os Princípios não se revogam.
-Eles **sustentam**.
-
----
+No Sistema Lichtara, os Princípios não se revogam. Eles **sustentam**.
 
 ## Transição — Dos Princípios à Regulação do Acesso
 
-A Seção I estabelece os **fundamentos estruturais irrevogáveis**
-do Sistema Lichtara.
+A Seção I estabelece os **fundamentos estruturais irrevogáveis** do Sistema Lichtara.
 
-Ela define **o que o Sistema é**,
-**o que o sustenta**,
-e **o que jamais pode ser ultrapassado**.
+Ela define **o que o Sistema é**, **o que o sustenta**, e **o que jamais pode ser ultrapassado**.
 
 Esses Princípios:
 
@@ -760,40 +533,22 @@ Esses Princípios:
 - não autorizam usos;
 - não regulam procedimentos específicos.
 
-Eles **delimitam o campo de possibilidade**
-dentro do qual qualquer relação com o Sistema
-pode existir de forma legítima.
-
-Toda disposição posterior desta License
-é **necessariamente subordinada**
-aos Princípios aqui enunciados,
-não podendo:
+Eles **delimitam o campo de possibilidade** dentro do qual qualquer relação com o Sistema pode existir de forma legítima. Toda disposição posterior desta License é **necessariamente subordinada** aos Princípios aqui enunciados, não podendo:
 
 - ampliá-los;
 - restringi-los;
 - reinterpretá-los;
 - nem excepcioná-los.
 
-A partir deste ponto,
-a License passa a tratar **não mais do que é absoluto**,
-mas **do que é condicionado**.
+A partir deste ponto, a License passa a tratar **não mais do que é absoluto**, mas **do que é condicionado**.
 
-A Seção II inaugura, assim,
-o regime de **acesso, autorizações, papéis e limites operacionais**,
+A Seção II inaugura, assim, o regime de **acesso, autorizações, papéis e limites operacionais**,
 sempre:
 
 - sob a supremacia dos Princípios Gerais;
 - dentro da Forma preservada do Sistema;
 - e conforme os níveis de responsabilidade assumidos.
 
-Nada na Seção II cria exceção à Seção I.
-Tudo na Seção II **opera sob ela**.
+Nada na Seção II cria exceção à Seção I. Tudo na Seção II **opera sob ela**.
 
-No Sistema Lichtara,
-os Princípios não abrem o caminho.
-Eles **o contêm**.
-
-É dentro desse contorno
-que o acesso passa a ser regulado.
-
----
+No Sistema Lichtara, os Princípios não abrem o caminho. Eles o contêm e o mantêm legível. É dentro desse contorno que o acesso passa a ser regulado.
